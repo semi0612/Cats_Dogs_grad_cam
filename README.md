@@ -4,7 +4,7 @@
 
 논문 링크 : https://arxiv.org/pdf/1409.1556.pdf
 
-##논문 요약
+## 논문 요약
 
 VGG Net 이라고 불리는 심층 신경망 모델은 Oxford University에서 개발되었으며, 2014년 ILSVRC에서 GoogleNet에 근소한 차이로 아쉽게 2등한 network이다. 하지만 굉장히 간단한 구조로 이루어져 있음에도 높은 성능을 내며, 구조변형이 쉬워 많이 사용되었다.
 
