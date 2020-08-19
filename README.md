@@ -7,4 +7,4 @@
 
 ./grad_cam/cat_dog_vgg.ipynb : 2천 5백장 중 2000개를 train_data, 500개를 valid_data 으로 나누어 진행하였습니다.
 
-./grad_cam                   : 2만 5천장에서 1만 7천개를 train_data, 4천개를 validation_data, test_data 4000으로 나누어 실험을 진행하였습니다.
+./grad_cam                   : 2만 5천장 중 1만 7천개를 train_data, 4천개를 validation_data, test_data 4000으로 나누어 진행하였습니다.
