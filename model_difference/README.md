@@ -13,7 +13,7 @@ VggNet(Layer 16, epoch 15, optimizer RMSprop(tf.keras.optimizers.RMSprop(lr=1e-4
 
 > 모델을 load해 사용한 결과
 
-<img_s>![cat_dog_2000_load](https://user-images.githubusercontent.com/51469989/90616740-c3e04900-e248-11ea-840e-dcb4ecba5c71.JPG)
+![cat_dog_2000_load](https://user-images.githubusercontent.com/51469989/90616740-c3e04900-e248-11ea-840e-dcb4ecba5c71.JPG)
 
 
 
